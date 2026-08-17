@@ -1,16 +1,53 @@
-# React + Vite
+# Orlando's Custom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Orlando's Custom** is a responsive business website developed for a painting, tile installation, and remodeling company serving **Bowling Green, Kentucky**.
 
-Currently, two official plugins are available:
+The website presents the company's services, completed projects, testimonials, and contact options through a modern interface designed to help potential customers quickly understand the business and request a service.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## React Compiler
+The project was created to provide Orlando's Custom with a professional digital presence focused on showcasing its craftsmanship and generating customer inquiries.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The website combines bold visual design, service-focused content, project imagery, and clear calls to action.
 
-## Expanding the ESLint configuration
+## Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Fully responsive design
+* Interior painting services
+* Exterior painting services
+* Tile installation
+* Custom remodeling
+* Project gallery
+* Customer testimonials
+* Company information
+* Contact section
+* Direct call-to-action buttons
+* Mobile-friendly navigation
+
+## Technologies
+
+* **React**
+* **Vite**
+* **Tailwind CSS**
+* JavaScript
+* HTML
+* Responsive Web Design
+
+## User Experience
+
+Visitors can quickly:
+
+* Explore available services
+* View completed projects
+* Learn about the company
+* Read customer testimonials
+* Contact the business
+* Call directly to request a service or estimate
+
+## Purpose
+
+The project provides **Orlando's Custom** with a professional online presence designed to showcase its work, communicate its services, and connect with potential customers in the Bowling Green area.
+
+---
+
+**Developed by Leonardo Serrate**
